@@ -1,0 +1,9 @@
+target
+.idea
+.idea_modules
+*.sublime-*
+*.iml
+
+# mongodb test
+data/db/
+mongodb.log
